@@ -1,0 +1,17 @@
+first level:
+if I haven't, pip install virtualenv
+second
+py -m virtualenv env
+third
+.\env\scripts\activete (e => Tab => s => Tab => a => Tab
+forth
+install icecream //or any installation
+pip freeze > requirements.txt
+
+git....
+
+pip install -r .\reruirement.txt
+
+
+
+https://github.com/narnav/delme99999.git
